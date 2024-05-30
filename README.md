@@ -14,7 +14,7 @@ I am on my way to become a Full Stack developer, based in Valencia and currently
 
 **Databases:** `SQL` `MongoDB`
 
-**Cloud:** `AWS` `Azure` `Google` `Cloud` `Docker`
+**Cloud:** `AWS` `Azure` `Google Cloud` `Docker`
 
 **Others:** `Active Directory` `Grafana` `Scrum` `Confluence` `Jira`
 

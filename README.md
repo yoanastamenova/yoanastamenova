@@ -1,6 +1,5 @@
 # Hey, I'm Yoana 👋🏽
-I am on my way to become a Full Stack developer, based in Valencia and currently learning all I can at GeeksHubs Academy.
-
+I am on my way to become a Full Stack developer, based in Valencia and currently learning all I can at GeeksHubs Academy. Please keep in mind that most of the technologies listed below are the ones that I am currently learning. Thank you for visiting my page!
 
 
 ## 📦 Toolbox
@@ -21,7 +20,7 @@ I am on my way to become a Full Stack developer, based in Valencia and currently
 
 ## ✨ Fun Facts
 - Naruto is my favorite anime.
-- As a kid, I wanted to be an fashion designer.
+- As a kid, I wanted to be a fashion designer.
 - I love using Mac after switching from the good old Windows.
 
 

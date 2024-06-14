@@ -20,7 +20,7 @@ I am on my way to become a Full Stack developer, based in Valencia and currently
 
 ## ✨ Fun Facts
 - Naruto is my favorite anime.
-- As a kid, I wanted to be a fashion designer.
+- Developed a passion for gaming and computers/network from early age.
 - I love using Mac after switching from the good old Windows.
 
 

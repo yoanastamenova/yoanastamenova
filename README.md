@@ -9,7 +9,7 @@ I am on my way to become a Full Stack developer, based in Valencia and currently
 
 **Backend Development:** `Node.js` `Java` `#C` 
 
-**Testing:** `Cypress` `Playwright`
+**Testing:** `Cypress` `Playwright` `Jest`
 
 **Databases:** `SQL` `MongoDB`
 

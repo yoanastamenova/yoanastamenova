@@ -3,7 +3,7 @@ I am on my way to become a Full Stack developer, based in Valencia and currently
 
 
 ## 📦 Toolbox
-**Frontend Development:** `CSS` `Bootstrap` `JavaScript` `React`  `Tailwind` `Next`
+**Frontend Development:** `CSS` `Bootstrap` `JavaScript` `React`  `Tailwind` `Next.js`
  
 **Version Control:** `Git` `GitLab` 
 
@@ -11,7 +11,7 @@ I am on my way to become a Full Stack developer, based in Valencia and currently
 
 **Testing:** `Cypress` `Playwright` `Jest` `Selenium`
 
-**Databases:** `SQL` `MongoDB` `Express` `
+**Databases:** `SQL` `MongoDB` `Express` `Access`
 
 **Cloud:** `AWS` `Azure` `Google Cloud` `Docker`
 

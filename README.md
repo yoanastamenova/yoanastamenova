@@ -11,7 +11,7 @@ I am on my way to become a Full Stack developer, based in Valencia and currently
 
 **Testing:** `Cypress` `Playwright` `Jest` `Selenium`
 
-**Databases:** `SQL` `MongoDB` `Express` `Access`
+**Databases:** `SQL` `MongoDB` `Express` `Access` `Zeabur` `PostmanAPI`
 
 **Cloud:** `AWS` `Azure` `Google Cloud` `Docker`
 

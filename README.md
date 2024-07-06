@@ -1,5 +1,5 @@
 # Hey, I'm Yoana 👋🏽
-I am on my way to become a Full Stack developer, based in Valencia and currently learning all I can at GeeksHubs Academy. Please keep in mind that most of the technologies listed below are the ones that I am currently learning. Thank you for visiting my page!
+I am on my way to become a Full Stack Developer, based in Valencia and currently learning all I can at GeeksHubs Academy. Feel free to checkout my projects, suggest improvements or even a future collaboration. Let me know if you are interested in working together or any kind of feedback is welcome! Thank you for visiting my page!
 
 
 ## 📦 Toolbox

@@ -3,7 +3,7 @@ I am on my way to become a Full Stack Developer, based in Valencia and currently
 
 
 ## 📦 Toolbox
-**Frontend Development:** `CSS` `Bootstrap` `JavaScript` `React`  `Tailwind` `Next.js`
+**Frontend Development:** `CSS` `Bootstrap` `JavaScript` `TypeScript` `React`  `Tailwind` `Next.js`
  
 **Version Control:** `Git` `GitLab` 
 

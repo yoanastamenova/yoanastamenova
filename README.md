@@ -24,9 +24,9 @@ I am on my way to become a Full Stack Developer, based in Valencia and currently
 - I love using Mac after switching from the good old Windows.
 
 
-[![Yoana’s github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=yoanastamenova&layout=compact&langs_count=10&theme=shadow_blue) 
+![Yoana’s github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=yoanastamenova&layout=compact&langs_count=10&theme=shadow_blue) 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api?username=yoanastamenova&show_icons=true&theme=shadow_blue)
+![Top Langs](https://github-readme-stats.vercel.app/api?username=yoanastamenova&show_icons=true&theme=shadow_blue)
 
 ## 📫 Contact
 For a quick response, DM me on [LinkedIn](https://www.linkedin.com/in/yoanastamenova/). 

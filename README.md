@@ -24,7 +24,7 @@ I am on my way to become a Full Stack Developer, based in Valencia and currently
 - I love using Mac after switching from the good old Windows.
 
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <div style="display: flex; justify-content: space-around; align-items: flex-start; flex-wrap: wrap;">
     <div style="flex: 1 1 50%; min-width: 150px; max-width: 30%; text-align: center;">

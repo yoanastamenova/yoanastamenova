@@ -26,7 +26,7 @@ I am on my way to become a Full Stack Developer, based in Valencia and currently
 
 ## 📊 GitHub Stats
 
-<div style="flex: 1 1 50%; min-width: 150px; max-width: 30%; text-align: center;">
+<div align-items: center;">
   <img src="https://github-readme-stats.vercel.app/api?username=yoanastamenova&show_icons=true&theme=tokyonight&&bg_color=00000000&hide_border=true&rank_icon=github&" alt="Ivan's GitHub Stats" height=200 align="center" />
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=yoanastamenova&langs_count=10&layout=compact&theme=tokyonight&include_all_commits=true&line_height=27">
 </div>

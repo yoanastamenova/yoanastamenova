@@ -31,9 +31,10 @@ I am on my way to become a Full Stack Developer, based in Valencia and currently
         <img src="https://github-readme-stats.vercel.app/api?username=yoanastamenova&show_icons=true&theme=tokyonight&&bg_color=00000000&hide_border=true&rank_icon=github&" alt="Ivan's GitHub Stats" height=200 align="center" />
     </div>
     <div style="flex: 1 1 50%; min-width: 150px; max-width: 30%; text-align: center;">
-        [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yoanastamenova&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
     </div>
 </div>
+        (https://github-readme-stats.vercel.app/api/top-langs/?username=yoanastamenova&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ## 📫 Contact
 For a quick response, DM me on [LinkedIn](https://www.linkedin.com/in/yoanastamenova/). 

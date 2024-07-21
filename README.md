@@ -26,14 +26,9 @@ I am on my way to become a Full Stack Developer, based in Valencia and currently
 
 ## 📊 GitHub Stats
 
-<div align="center"> 
-<a href="https://github.com/yoanastamenova/github-readme-stats#gh-light-mode-only">
-<img height=259 src="https://github-readme-stats-git-masterrstaa-yoanastamenova.vercel.app/api/top-langs/?username=yoanastamenova&layout=compact&langs_count=12&hide_border=true&role=owner,collaborator&theme=default#gh-light-mode-only" alt="Yoana's Language stats" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
-<img height=259 src="https://github-readme-stats-git-masterrstaa-yoanastamenova.vercel.app/api?username=yoanastamenova&show_icons=true&line_height=28&hide_border=true&card_width=347&include_all_commits=true&role=owner,collaborator&show=reviews,discussions_answered&rank_icon=percentile&exclude_repo=github-readme-stats&theme=default#gh-light-mode-only" alt="Yoana's Github stats" />
-</a>
-</div>
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=yoanastamenova&langs_count=10&layout=compact&theme=tokyonight&include_all_commits=true&line_height=27">
+</p>
 
 ## 📫 Contact
 For a quick response, DM me on [LinkedIn](https://www.linkedin.com/in/yoanastamenova/). 

@@ -1,6 +1,6 @@
 # Hey, I'm Yoana 👋🏽
 
-I am on my way to become a Full Stack Developer, based in Valencia and currently learning all I can at GeeksHubs Academy. Feel free to checkout my projects, suggest improvements or even a future collaboration. Let me know if you are interested in working together or any kind of feedback is welcome! Thank you for visiting my page!
+I am a Full Stack Developer, based in Valencia and currently learning all I can at GeeksHubs Academy. Feel free to checkout my projects, suggest improvements or even a future collaboration. Let me know if you are interested in working together or any kind of feedback is welcome! Thank you for visiting my page!
 
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='100"'>
 

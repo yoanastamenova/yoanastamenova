@@ -5,7 +5,7 @@ I am a Full Stack Developer, based in Valencia and currently learning all I can 
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='100"'>
 
 ## 📦 Toolbox
-**Frontend Development:** `HTML``CSS` `Bootstrap` `JavaScript` `TypeScript` `React`  `Tailwind` `Next.js`
+**Frontend Development:** `CSS` `Bootstrap` `JavaScript` `TypeScript` `React`  `Tailwind` `Next.js`
  
 **Version Control:** `Git` `GitLab` 
 

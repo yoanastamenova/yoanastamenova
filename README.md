@@ -9,7 +9,7 @@ I am a Full Stack Developer, based in Valencia and I am constantly learning new 
  
 **Version Control:** `Git` `GitLab` 
 
-**Backend Development:** `Node.js` `Java` `#C` 
+**Backend Development:** `Node.js` `PHP` `Laravel` `C#` 
 
 **Testing:** `Cypress` `Playwright` `Jest` `Selenium`
 

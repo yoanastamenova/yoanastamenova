@@ -1,6 +1,6 @@
 # Hey, I'm Yoana 👋🏽
 
-I am a Full Stack Developer, based in Valencia and constantly learning new technologies. Feel free to checkout my projects, suggest improvements or even a future collaboration. Let me know if you are interested in working together or any kind of feedback is welcome! Thank you for visiting my page!
+I am a Full Stack Developer, based in Valencia and I am constantly learning new technologies. Please take a look at my projects, offer suggestions, or discuss potential collaborations. If you're interested in partnering or have feedback, I'd love to hear from you! Thanks for stopping by my page!
 
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='100"'>
 

@@ -1,21 +1,23 @@
 # Hey, I'm Yoana 👋🏽
 
-I am a Full Stack Developer, based in Valencia and I am constantly learning new technologies. Please take a look at my projects, offer suggestions, or discuss potential collaborations. If you're interested in partnering or have feedback, I'd love to hear from you! Thanks for stopping by my page!
+I'm a Full Stack Developer from Valencia, always diving into new tech. Check out my projects, drop me a suggestion, or let's chat about possible collaborations. If you're up for teaming up or just want to share some feedback, I'd love to hear from you. Thanks for dropping by!
 
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='100"'>
 
 ## 📦 Toolbox
-**Frontend Development:** `CSS` `Bootstrap` `JavaScript` `TypeScript` `React`  `Tailwind` `Next.js`
+**Frontend Development:** `HTML` `CSS` `SAAS` `Bootstrap` `JavaScript` `TypeScript` `React`  `Tailwind` `Next.js`
  
-**Version Control:** `Git` `GitLab` 
+**Backend Development:** `Node.js` `Express` `PHP` `Laravel` `C#`
 
-**Backend Development:** `Node.js` `PHP` `Laravel` `C#` 
+**Version Control:** `Git` `GitLab` 
 
 **Testing:** `Cypress` `Playwright` `Jest` `Selenium`
 
 **Databases:** `SQL` `MongoDB` `Express` `Access` `Zeabur` `Postman` `GraphQL`
 
-**Cloud:** `AWS` `Azure` `Google Cloud` `Docker`
+**DevOps/Cloud:** `AWS` `Azure` `Google Cloud` `Docker`
+
+**Operating Systems:** `MacOS` `Windows` `Ubuntu` `Linux`
 
 **Others:** `Active Directory` `Grafana` `Scrum` `Confluence` `Jira`
 

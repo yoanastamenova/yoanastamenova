@@ -11,7 +11,7 @@ I'm a Full-Stack Developer from Valencia, who loves diving into new tech. Curren
 
 **Version Control:** `Git` `GitLab` 
 
-**Testing:** `Cypress` `Playwright` `Jest` `Selenium`
+**Testing:** `Cypress` `Playwright` `Jest` `Selenium` `Vitest` 
 
 **Databases:** `SQL` `MongoDB` `Express` `Access` `Zeabur` `Postman` `GraphQL`
 

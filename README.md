@@ -17,7 +17,7 @@ I'm a Full-Stack Developer from Valencia, who loves diving into new tech. Curren
 
 **DevOps/Cloud:** `AWS` `Azure` `Google Cloud` `Docker` `Jenkins` `Terraform`
 
-**Operating Systems:** `MacOS` `Windows` `Ubuntu` `Linux`
+**Operating Systems:** `MacOS` `Windows` `Linux`
 
 **Others:** `Active Directory` `Grafana` `Scrum` `Confluence` `Jira`
 

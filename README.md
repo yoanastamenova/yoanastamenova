@@ -13,7 +13,7 @@ I'm a Full-Stack Developer from Valencia, who loves diving into new tech. Curren
 
 **Testing:** `Cypress` `Playwright` `Jest` `Selenium` `Vitest` 
 
-**Databases:** `SQL` `MongoDB` `Express` `Access` `Zeabur` `Postman` `GraphQL`
+**Databases:** `SQL` `MongoDB` `PostgreSQL` `MariaDB` `Access` `Postman` `GraphQL`
 
 **DevOps/Cloud:** `AWS` `Azure` `Google Cloud` `Docker` `Jenkins` `Terraform`
 

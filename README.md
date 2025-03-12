@@ -19,7 +19,7 @@ I'm a Full-Stack Developer from Valencia, who loves diving into new tech. Curren
 
 **Operating Systems:** `MacOS` `Windows` `Linux`
 
-**Others:** `Active Directory` `Grafana` `Scrum` `Confluence` `Jira`
+**Others:** `Active Directory` `Grafana` `Scrum` `Confluence` `Jira` `Photoshop` 
 
 
 ## ✨ Fun Facts

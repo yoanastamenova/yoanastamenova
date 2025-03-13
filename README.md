@@ -5,7 +5,7 @@ I'm a Full-Stack Developer from Valencia, who loves diving into new tech. Curren
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='100"'>
 
 ## 📦 Toolbox
-**Frontend Development:** `HTML` `CSS` `SAAS` `Bootstrap` `JavaScript` `TypeScript` `React` `Angular` `Tailwind` `Next.js`
+**Frontend Development:** `HTML` `CSS` `SASS` `Bootstrap` `JavaScript` `TypeScript` `React` `Angular` `Tailwind` `Next.js`
  
 **Backend Development:** `Node.js` `Express` `Python` `Java` `C#`
 

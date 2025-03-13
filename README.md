@@ -15,7 +15,7 @@ I'm a Full-Stack Developer from Valencia, who loves diving into new tech. Curren
 
 **Databases:** `SQL` `MongoDB` `PostgreSQL` `MariaDB` `Access` `Postman` `GraphQL`
 
-**DevOps/Cloud:** `AWS` `Azure` `Google Cloud` `Docker` `Jenkins` `Terraform`
+**DevOps/Cloud:** `AWS` `Azure` `Google Cloud` `Docker` `Jenkins` `Terraform` `Kubernetes`
 
 **Operating Systems:** `MacOS` `Windows` `Linux`
 

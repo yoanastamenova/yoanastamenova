@@ -19,6 +19,8 @@ I'm a Full-Stack Developer from Valencia, who loves diving into new tech. Curren
 
 **Operating Systems:** `MacOS` `Windows` `Linux`
 
+**Digital Art** `Blender` `Z-brush` `Gimp` `Procreate` `Autodesk Maya`
+
 **Others:** `Active Directory` `Grafana` `Scrum` `Confluence` `Jira` `Adobe Cloud` 
 
 

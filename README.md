@@ -9,7 +9,7 @@ I'm a Full-Stack Developer from Valencia, who loves diving into new tech. Curren
  
 **Backend Development:** `Node.js` `Express` `Python` `Java` `C#`
 
-**Version Control:** `Git` `GitLab` 
+**Version Control:** `Git` `GitLab` `Bitbucket`
 
 **Testing:** `Cypress` `Playwright` `Jest` `Selenium` `Vitest` `Pytest` 
 

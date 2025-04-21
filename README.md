@@ -26,7 +26,7 @@ I'm a Full-Stack Developer from Valencia, who loves diving into new tech. My exp
 **Others:** `Active Directory` `Grafana` `Scrum` `Confluence` `Jira` `Adobe Cloud` 
 
 ## 💡 Proffesional Certifications
-- In progress: Microsoft Azure 900 / 204
+- In progress: Microsoft Azure 900
 - Cisco CCNA
 - AWS Certified Cloud Practitioner
 

@@ -27,7 +27,7 @@ I'm a Full-Stack Developer from Valencia, who loves diving into new tech. My exp
 
 ## 💡 Proffesional Certifications
 - In progress: Microsoft Azure 900
-- Cisco CCNA
+- Professional Scrum Developer I
 - AWS Certified Cloud Practitioner
 
 ## ✨ Fun Facts

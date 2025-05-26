@@ -23,7 +23,7 @@ I'm a Full-Stack Developer from Valencia, who loves diving into new tech. My exp
 
 **Gaming Engines** `Unity` `Unreal Engine` `Godot`
 
-**Others:** `Active Directory` `Grafana` `Scrum` `Confluence` `Jira`
+**Others:** `Active Directory` `Grafana` `Scrum` `Jira`
 
 ## 💡 Proffesional Certifications
 - In progress: Microsoft Azure 900

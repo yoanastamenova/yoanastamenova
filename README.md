@@ -19,7 +19,7 @@ I'm a Full-Stack Developer from Valencia, who loves diving into new tech. My exp
 
 **Operating Systems:** `MacOS` `Windows` `Linux`
 
-**Digital Art** `Blender` `Adobe Cloud` `Z-brush` `Gimp` `Inkscape`
+**Digital Art** `Blender` `Adobe Cloud` `Z-brush` `Inkscape`
 
 **Gaming Engines** `Unity` `Unreal Engine` `Godot`
 

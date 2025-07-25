@@ -1,6 +1,6 @@
 # Hey, I'm Yoana 👋🏽
 
-I'm a Full-Stack Developer from Valencia, who loves diving into new tech. My experience varies from system administrator, videogame creation, digital art, IoT systems and above all - coding. Feel free to check out my projects, drop me a suggestion, or let's chat about possible collaborations. If you're up for teaming up or just want to share some feedback, I'd love to hear from you. Thanks for dropping by!
+I'm a Full-Stack Developer from Valencia, who loves diving into new tech. My experience varies from system administrator, videogame creation, digital art, IoT systems and above all - coding. Feel free to check out my projects, drop me a suggestion, or let's chat about possible collaborations. If you're up for teamwork or just want to share some feedback, I'd love to hear from you. Thanks for dropping by!
 
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='100"'>
 

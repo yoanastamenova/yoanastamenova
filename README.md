@@ -5,7 +5,7 @@ I'm a Full-Stack Developer from Valencia, who loves diving into new tech. My exp
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='100"'>
 
 ## 📦 Toolbox
-**Frontend technologies:** `HTML` `CSS` `SASS` `Bootstrap` `Tailwind` `JavaScript` `TypeScript` `React` `Angular` `Vue`
+**Frontend technologies:** `HTML` `CSS` `SASS` `Bootstrap` `Tailwind` `JavaScript` `TypeScript` `React` `NextJS` `Angular` `Vue`
  
 **Backend technologies:** `Node.js` `Express` `Python` `Java` `C#`
 

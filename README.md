@@ -139,7 +139,8 @@
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=yoanastamenova&label=Profile%20views&color=F74CDF&style=flat" alt="Profile views" />
-  
+
+  <br>
   <h4>💬 Let's Connect!</h4>
   <p align="center">
   <a href="https://yoanastamenova.com" target="_blank"><img src="https://img.shields.io/badge/my_portfolio-235?style=for-the-badge&logo=spreadshirt&logoColor=white"></a>

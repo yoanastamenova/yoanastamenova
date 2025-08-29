@@ -72,7 +72,7 @@
   </tr>
   <tr>
     <td align="center" width="96">
-      <b>Tools</b>
+      <b>Version Control</b>
     </td>
     <td align="center">
       <a href="https://skillicons.dev">

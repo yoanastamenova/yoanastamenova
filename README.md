@@ -1,48 +1,164 @@
-# Hey, I'm Yoana 👋🏽
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img 
+      src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=30&duration=3000&pause=1000&color=F74CDF&center=true&vCenter=true&width=500&lines=Hi+I'm+Yoana+👋🏼;Welcome+to+my+GitHub+profile%F0%9F%90%B1+;Check+out+my+projects+💻;Let's+create+something+together!✌🏼"
+      alt="Typing SVG" 
+    />
+  </a>
 
-I'm a Full-Stack Developer from Valencia, who loves diving into new tech. My experience varies from system administrator, videogame creation, digital art, IoT systems and above all - coding. Feel free to check out my projects, drop me a suggestion, or ask me for an estimation on something you need done. If you're up for teamwork or just want to share some feedback, I'd love to hear from you. Thanks for dropping by!
-
-<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='100"'>
-
-## 📦 Toolbox
-**Frontend technologies:** `HTML` `CSS` `SASS` `Bootstrap` `Tailwind` `JavaScript` `TypeScript` `React` `NextJS` `Angular` `Vue`
- 
-**Backend technologies:** `Node.js` `Express` `Python` `Java` `C#`
-
-**Version Control:** `Git` `GitLab` `Bitbucket`
-
-**Testing:** `Cypress` `Playwright` `Jest` `Selenium` `Vitest` `Pytest` 
-
-**Databases:** `SQL` `MongoDB` `PostgreSQL` `MariaDB` `Access` `Postman` `GraphQL`
-
-**DevOps/Cloud:** `AWS` `Azure` `Google Cloud` `Docker` `Jenkins` `Terraform` `Kubernetes`
-
-**Operating Systems:** `MacOS` `Windows` `Linux`
-
-**Digital Art** `Blender` `Adobe Cloud` `Z-brush` `Inkscape`
-
-**Gaming Engines** `Unity` `Unreal Engine` `Godot`
-
-**Others:** `Active Directory` `Grafana` `Scrum` `Jira`
-
-## 💡 Proffesional Certifications
-- Microsoft Azure 900
-- Professional Scrum Developer I
-- AWS Certified Cloud Practitioner
-
-## ✨ Fun Facts
-- Naruto is my favorite anime.
-- Developed a passion for gaming and computers/network from early age.
-- I love using Mac after switching from the good old Windows.
-
-
-## 📊 GitHub Stats
-
-<div>
-   <img src="https://github-readme-stats.vercel.app/api?username=yoanastamenova&show_icons=true&theme=tokyonight&&bg_color=00000000&hide_border=false&rank_icon=github&" alt="Yoana's GitHub Stats" height=200 />
- <br>
-   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=yoanastamenova&langs_count=10&layout=compact&theme=tokyonight&include_all_commits=true&line_height=27">
+  <p> Software Engineer with expertise spanning frontend elegance to cloud architecture. Currently crafting innovative solutions in Valencia, Spain for a German tech company. Always excited to collaborate on challenging projects!
+  </p>
+  
+  <p>
+    <a href="https://yoanastamenova.com" target="_blank">
+      <img src="https://img.shields.io/badge/🌐_Portfolio-235?style=for-the-badge&logoColor=cyan">
+    </a>
+    <a href="https://www.linkedin.com/in/yoanastamenova" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    </a>
+    <a href="mailto:stamenova.dev@gmail.com?subject=Hello from GitHub">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+    </a>
+  </p>
 </div>
 
-## 📫 Contact
-For a quick response, DM me on [LinkedIn](https://www.linkedin.com/in/yoanastamenova/). 
+---
+
+## ⚡️ Stack & Skills
+
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+      <b>Frontend</b>
+    </td>
+    <td align="center">
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,angular,vue" />
+      </a>
+      <br>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=next,bootstrap,sass,tailwind,materialui,astro,svelte" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <b>Backend</b>
+    </td>
+    <td align="center">
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=nodejs,express,python,java,spring,cs" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <b>Database</b>
+    </td>
+    <td align="center">
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,prisma,supabase" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <b>Cloud & DevOps</b>
+    </td>
+    <td align="center">
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=docker,kubernetes,azure,aws,gcp" />
+      </a>
+      <br>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=jenkins,grafana,terraform" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <b>Tools</b>
+    </td>
+    <td align="center">
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=git,github,githubactions,bitbucket,jira" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <b>Testing</b>
+    </td>
+    <td align="center">
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=jest,vitest,selenium,cypress" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <b>UX/UI Design</b>
+    </td>
+    <td align="center">
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=figma,ps,blender,ai" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+## 🏆 Professional Certifications
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Azure-0089D0?style=for-the-badge&logo=azure&logoColor=white" alt="Azure">
+      <br>
+      <b>Azure Fundamentals</b>
+      <br>
+      AZ-900
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS">
+      <br>
+      <b>Cloud Practitioner</b>
+      <br>
+      CLF-C01
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Scrum-009FDA?style=for-the-badge&logo=scrumalliance&logoColor=white" alt="Scrum">
+      <br>
+      <b>Professional Scrum</b>
+      <br>
+      Developer I
+    </td>
+  </tr>
+</table>
+
+## 📊 GitHub Analytics
+
+<div align="center">
+     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yoanastamenova&show_icons=true&theme=jolly" />
+     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=yoanastamenova&show_icons=true&locale=en&layout=compact&theme=jolly" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=yoanastamenova&theme=jolly&hide_border=false" />
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=yoanastamenova&label=Profile%20views&color=F74CDF&style=flat" alt="Profile views" />
+  
+  <h4>💬 Let's Connect!</h4>
+    <p>
+    <a href="https://yoanastamenova.com" target="_blank">
+      <img src="https://img.shields.io/badge/🌐_Discord-235?style=for-the-badge&logoColor=cyan">
+    </a>
+    <a href="https://www.linkedin.com/in/yoanastamenova" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    </a>
+    <a href="mailto:stamenova.dev@gmail.com?subject=Hello from GitHub">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+    </a>
+    </p>
+</div>
+

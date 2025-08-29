@@ -138,7 +138,9 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yoanastamenova&bg_color=291B3E&color=fff&line=F74CDF&point=F74CDF&hide_border=true" />
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=yoanastamenova&theme=dark&background=291B3E&ring=F74CDF&fire=F74CDF&currStreakLabel=F74CDF" />
+  </a>
 </div>
 
 ---

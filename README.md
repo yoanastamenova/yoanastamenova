@@ -139,9 +139,12 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=yoanastamenova&show_icons=true&theme=jolly" />
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs?username=yoanastamenova&show_icons=true&locale=en&layout=compact&theme=jolly" />
-  <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=yoanastamenova&theme=jolly&hide_border=false" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yoanastamenova&show_icons=true&theme=jolly" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=yoanastamenova&show_icons=true&locale=en&layout=compact&theme=jolly" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yoanastamenova&theme=react-dark&hide_border=true&area=true" />
 </div>
 
 ---

@@ -1,7 +1,7 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=30&duration=3000&pause=1000&color=F74CDF&center=true&vCenter=true&width=500&lines=Hi+I'm+Yoana+👋🏼;Welcome+to+my+GitHub+profile!+🐱;Check+out+my+projects+💻;Let's+create+something+together!+✌🏼"
-      alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=30&duration=3000&pause=1000&color=F74CDF&center=true&vCenter=true&width=500&lines=Hi+I'm+Yoana;Welcome+to+my+GitHub+profile!;Check+out+my+projects;Let's+create+something+together!"
+  alt="Typing SVG" />
   </a>
 
   <p> Software Engineer with expertise spanning frontend elegance to cloud architecture. Currently crafting innovative solutions in Valencia, Spain for a German tech company. Always excited to collaborate on challenging projects!

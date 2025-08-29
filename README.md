@@ -137,12 +137,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=yoanastamenova&show_icons=true&locale=en&layout=compact&theme=jolly" />
 </div>
 
-<div align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=yoanastamenova&theme=dark&background=291B3E&ring=F74CDF&fire=F74CDF&currStreakLabel=F74CDF" />
-  </a>
-</div>
-
 ---
 
 <div align="center">

@@ -138,7 +138,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=yoanastamenova&theme=jolly" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yoanastamenova&bg_color=291B3E&color=fff&line=F74CDF&point=F74CDF&hide_border=true" />
 </div>
 
 ---

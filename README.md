@@ -1,4 +1,8 @@
 <div align="center">
+  <p align="center">
+  <img src="http://www.nyan.cat/cats/original.gif" width="80" alt="nyan-cat"/>
+</p>
+  
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=30&duration=3000&pause=1000&color=F74CDF&center=true&vCenter=true&width=500&lines=Hi+I'm+Yoana+%F0%9F%91%8B%F0%9F%8F%BC;Welcome+to+my+GitHub+profile!+%F0%9F%90%B1;Check+out+my+projects+%F0%9F%92%BB;Let's+create+something+together!+%E2%9C%8C%F0%9F%8F%BC"
       alt="Typing SVG" />
@@ -137,7 +141,7 @@
 <div align="center">
      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yoanastamenova&show_icons=true&theme=jolly" />
      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=yoanastamenova&show_icons=true&locale=en&layout=compact&theme=jolly" />
-     <img src="https://github-readme-streak-stats.herokuapp.com/?user=yoanastamenova&theme=jolly&hide_border=false" />
+     <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=yoanastamenova&theme=jolly&hide_border=false" />
 </div>
 
 ---

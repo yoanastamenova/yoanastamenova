@@ -137,8 +137,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=yoanastamenova&show_icons=true&locale=en&layout=compact&theme=jolly" />
 </div>
 
----
-
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=yoanastamenova&label=Profile%20views&color=F74CDF&style=flat" alt="Profile views" />
   

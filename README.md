@@ -40,7 +40,7 @@
     </td>
     <td align="center">
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=nodejs,express,python,java,spring,cs" />
+        <img src="https://skillicons.dev/icons?i=nodejs,express,python,nestjs,cs" />
       </a>
     </td>
   </tr>

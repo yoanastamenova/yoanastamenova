@@ -8,7 +8,9 @@
       alt="Typing SVG" />
   </a>
 
-  <p> I am a Software Engineer with expertise from frontend elegance to cloud architecture. Currently shaping innovative solutions in Valencia, Spain, for a German tech company. I craft digital experiences where code meets design, with a touch of creativity and precision. Passionate about transforming complex challenges into seamless, functional, and impactful solutions.
+  <p> Software Engineer specializing in full-stack development with React, Angular, and more. 
+Currently seeking opportunities in Valencia, Spain. I build production-ready applications 
+from pixel-perfect frontends to scalable cloud infrastructure.
   </p>
   <p align="center">
   <a href="https://yoanastamenova.com" target="_blank"><img src="https://img.shields.io/badge/my_portfolio-235?style=for-the-badge&logo=spreadshirt&logoColor=white"></a>

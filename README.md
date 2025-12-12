@@ -17,6 +17,15 @@ from pixel-perfect frontends to scalable cloud infrastructure.</p>
 </p>
 </div>
 
+<div>
+## 💡 Quick Highlights
+✅ Led Angular migration project with 3 junior developers  
+✅ Deployed production apps on Azure & AWS with Docker/Kubernetes  
+✅ Built full-stack applications integrating multiple REST APIs  
+✅ System Administration background + 2 year professional development experience  
+📍 Based in Valencia, Spain | 🌍 Trilingual: English, Spanish, Bulgarian
+</div>
+
 
 ## ⚡️ Stack & Skills
 <table align="center">

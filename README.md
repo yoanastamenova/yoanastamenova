@@ -140,8 +140,14 @@ from pixel-perfect frontends to scalable cloud infrastructure.</p>
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yoanastamenova&show_icons=true&theme=radical" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yoanastamenova&theme=radical" />
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=yoanastamenova&show_icons=true&theme=jolly&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=yoanastamenova&layout=compact&langs_count=8&theme=jolly&hide_border=true"/>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=yoanastamenova&theme=jolly&hide_border=true" alt="GitHub Streak Stats" />
 </div>
 
 <br>

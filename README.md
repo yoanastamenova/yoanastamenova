@@ -18,7 +18,6 @@ from pixel-perfect frontends to scalable cloud infrastructure.</p>
 </div>
 
 ## 💡 Quick Highlights
-✅ Led Angular migration project with 3 junior developers  
 ✅ Deployed production apps on Azure & AWS with Docker/Kubernetes  
 ✅ Built full-stack applications integrating multiple REST APIs  
 ✅ System Administration background + 2 years professional development experience  

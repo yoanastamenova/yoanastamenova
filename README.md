@@ -18,10 +18,11 @@ from pixel-perfect frontends to scalable cloud infrastructure.</p>
 </div>
 
 ## 💡 Quick Highlights
-✅ Deployed production apps on Azure & AWS with Docker/Kubernetes  
-✅ Built full-stack applications integrating multiple REST APIs  
-✅ System Administration background + 2 years professional development experience  
+
 📍 Based in Valencia, Spain | 🌍 Trilingual: English, Spanish, Bulgarian
+✅ Deployed various production apps on Azure & AWS with Docker/Kubernetes for enterprises and clients
+✅ Built full-stack applications integrating multiple REST APIs, using wide variety of frameworks such as Next, Angular or Vue
+✅ System Administration background + 2 years professional development experience
 
 ## ⚡️ Stack & Skills
 <table align="center">

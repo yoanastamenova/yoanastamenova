@@ -22,7 +22,7 @@ developers, and now build and ship client and personal projects independently.</
 📍 Based in Valencia, Spain | 🌍 Trilingual: English, Spanish, Bulgarian <br>
 ✅ Deployed various production apps on Azure & AWS with Docker/Kubernetes for enterprises and clients<br>
 ✅ Built full-stack applications integrating multiple REST APIs, using wide variety of frameworks such as Next, Angular or Vue<br>
-✅ System Administration background + 2 years professional development experience<br>
+✅ System Administration background + 3 years professional development experience<br>
 
 ## ⚡️ Stack & Skills
 <table align="center">
